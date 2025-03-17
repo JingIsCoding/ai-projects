@@ -1,0 +1,13 @@
+transformers==4.36.2
+sentencepiece==0.1.99
+protobuf==4.25.1
+torch==2.6.0
+flask==2.1.0
+Werkzeug==2.2.2
+waitress==2.1.2
+langgraph
+langsmith
+langchain-openai
+langchain-google-community
+google-api-python-client
+python-dotenv
